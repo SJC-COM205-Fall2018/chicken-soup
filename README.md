@@ -44,5 +44,5 @@
   <li>Style your page elements using the  following table:</li>
   <li>Save  your changes<br>
   </li>
-  <li>Upload  your complete work to GitHub</li>
+  <li>Upload  your completed work to GitHub</li>
 </ol>
